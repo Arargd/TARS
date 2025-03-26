@@ -16,5 +16,10 @@ Replaces the default player "Zoe" entirely.
 ### Notes
 - The game will have its own mod system on release and installation is likely to change.
 
-### Made by Arargd  
+### Gallery
 
+![image](https://github.com/user-attachments/assets/e458ab23-de40-44ed-801e-fba4d0d62e5d)
+
+![image](https://github.com/user-attachments/assets/e733a164-ca6d-4731-9405-a97ae796337e)
+
+### Made by Arargd  
