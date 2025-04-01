@@ -1,13 +1,13 @@
-﻿using BepInEx;
-using HarmonyLib;
+﻿using HarmonyLib;
 using UnityEngine;
+using Landfall.Modding;
 
 namespace TARS
 {
-    [BepInPlugin("org.bepinex.plugins.TARS", "TARS", "0.0.0.1")]
-    class Loader : BaseUnityPlugin
+    [LandfallPlugin]
+    class Loader : MonoBehaviour
     {
-        void Awake()
+        static Loader()
         {
 			Harmony harmony = new Harmony("TARS");
 			harmony.PatchAll();

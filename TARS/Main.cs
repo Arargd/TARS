@@ -1,5 +1,4 @@
-﻿using BepInEx;
-using UnityEngine;
+﻿using UnityEngine;
 using System.Linq;
 using System.Reflection;
 using System.IO;
@@ -56,7 +55,7 @@ namespace TARS
 				wobblerobj = ab.LoadAllAssets<GameObject>().FirstOrDefault();
 				wobblervocal = ab.LoadAllAssets<VocalBank>().FirstOrDefault();
 				loadedwobbler = true;
-				Debug.Log("Wobbler assetbundle loaded!");
+				Debug.Log("Wobbler assetbundle loaded!"); 
 			}
 			var wobbler = Instantiate(wobblerobj);
 
