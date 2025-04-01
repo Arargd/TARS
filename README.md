@@ -6,8 +6,8 @@ Includes a few animations and SFX.
 Replaces the default player "Zoe" entirely.
 
 ### Installation
-Installed on steam from here: https://steamcommunity.com/sharedfiles/filedetails/?id=3456274286
-Make sure you subscribe to HarmonyX on the Workshop!
+- Installed on steam from here: https://steamcommunity.com/sharedfiles/filedetails/?id=3456274286
+- Make sure you subscribe to HarmonyX on the Workshop!
 
 
 ### Compatibility  
